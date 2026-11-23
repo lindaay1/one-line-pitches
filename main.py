@@ -13,7 +13,7 @@ No dependencies, no network, fully deterministic.
 
 import os
 
-LINE = "You describe your app idea in one sentence, an AI builds it while you drink your coffee, and if it's not right you just say so \u2014 no code, no hiring, no 'we'll circle back in Q3'."
+LINE = "Describe your app idea in one sentence, an AI builds it while you drink your coffee and if it's not right you just say so \u2014 no code, no hiring, no 'we'll circle back in Q3'."
 
 
 def validate(line):
